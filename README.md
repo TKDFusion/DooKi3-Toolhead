@@ -1,5 +1,5 @@
 # Metal Toolhead Plates and STLs for the Annex Engineering K3
-These parts allow for laser cut, waterjet, or CNC plates to replace the printed party plate on the Annex Engineering K3.  There are DXFs included that can be used for cutting the plates.  It is recommended to use 3-3.2mm thick plates and the Y spacer height will need to be adjusted depending on the exact thickness.  CNC machined plates can also be purchased from [Northprint3D](https://northprint3d.ca/product/k3-metal-toolhead-kit/) or [Luke's Laboratory](https://lukeslabonline.com/products/k3-metal-toolhead-kit?_pos=7&_sid=71ce67e35&_ss=r).
+These parts allow for laser cut, waterjet, or CNC plates to replace the printed party plate on the Annex Engineering K3.  There are DXFs included that can be used for cutting the plates.  It is recommended to use 3-3.2mm thick aluminum plates and the Y spacer height will need to be adjusted depending on the exact thickness.  CNC machined plates can also be purchased from [Northprint3D](https://northprint3d.ca/product/k3-metal-toolhead-kit/) or [Luke's Laboratory](https://lukeslabonline.com/products/k3-metal-toolhead-kit?_pos=7&_sid=71ce67e35&_ss=r).
 
 ## Compatibility
 ### Hotends and Part Cooling
